@@ -14,3 +14,4 @@ Sou uma programadora Front End, atualmente estou aprendendo e criando projetos c
 [![Ana Cristina GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaCNunes)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCNunes)](https://github.com/anuraghazra/github-readme-stats)
