@@ -9,7 +9,7 @@ Sou uma programadora Front End, atualmente estou aprendendo e criando projetos c
 <br>
 -<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 <br>
--Iniciando o aprendizado de <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="java-logo" /> e <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
+- Aprendendo: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="java-logo" /> e <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
 <br>
 <br>
 [![Ana Cristina GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaCNunes)](https://github.com/anuraghazra/github-readme-stats)
